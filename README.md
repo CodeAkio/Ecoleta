@@ -17,8 +17,27 @@
 </h3>
 
 <p align="center">
+  <a href="#demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#utilização">Utilização</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## Demonstração
+
+#### Mobile
+
+<p align="center">
+  <img alt="web" src="https://github.com/CodeAkio/Ecoleta/blob/master/.github/mobile.gif" width="100%">
+</p>
+
+<br>
+
+#### Web
+
+<p align="center">
+  <img alt="web" src="https://github.com/CodeAkio/Ecoleta/blob/master/.github/web.gif" width="100%">
 </p>
 
 <br>
